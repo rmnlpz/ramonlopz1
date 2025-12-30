@@ -9,8 +9,5 @@
 - 🌱 Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - 🌱 Desenvolvimento Web - Oracle Next Education
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=dark)
+![GitHub Stats](https://github-stats.omsimos.com/api?username=SEU_USUARIO&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=dark&count_private=true&include_all_commits=true&commits_year=2025)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
