@@ -12,3 +12,4 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rmnlpz&show_icons=true&theme=dark)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmnlpz&theme=dark)
